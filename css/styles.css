@@ -1096,6 +1096,10 @@ body {
   .footer__subtext {
     margin-bottom: 0;
   }
+
+  .footer-form{
+    max-width: 453px;
+  }
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px),
